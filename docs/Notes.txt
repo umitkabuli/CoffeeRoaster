@@ -1,7 +1,7 @@
 
 Drum roaster notes
 
-1. Links
+1-  Links
 1.1 Drum roaster post (in Turkish): https://www.kahvekulubu.net/sosyal/threads/tamburlu-kavurucu.1055/#post-25012
 1.2 KahveUno (in Turkish): https://kahveuno.wixsite.com/evde-kahve-kavurma/evde-kavurucu-yapimi
 1.3 CTKM by @umurpolat from the forum. (in Turkish) https://www.kahvekulubu.net/sosyal/threads/ctkm-cam-tamburlu-kavurma-makinesi-malzeme-listesi-ve-kurulum-detaylari.368/
@@ -11,9 +11,15 @@ Drum roaster notes
 1.7 MAX6675 termocouple: https://www.direnc.net/max6675-k-tipi-sicaklik-modulu
 1.8 manuel drum: aliexpress.com/item/4000048000301.html
 1.9. Drum roaster: aliexpress.com/item/4000509418877.html
-1.10. Drum roaster. aliexpress.com/item/4001169107787.html
-1.11 Drum roaster. aliexpress.com/item/4001167547735.html
+1.10. Drum roaster: aliexpress.com/item/4001169107787.html
+1.11 Drum roaster: aliexpress.com/item/4001167547735.html
 1.12 Long bean probe: aliexpress.com/item/4000174235176.html
+1.13 https://artisan-roasterscope.blogspot.com/
+1.14 Artisan software: https://artisan-scope.org/
+1.15 greencardigan: https://www.youtube.com/user/shortsleevecardigan
+1.16 https://github.com/greencardigan/TC4-shield
+1.17 https://www.instructables.com/id/Degree-of-Roast-Infrared-Analyzer-for-Coffee-Roast/
+-------------------------------------------------------
 
 
 2. Roast and Learn Together - Terms and Definitions 
@@ -56,3 +62,6 @@ Turn point - moment at which the bean temp bottoms out before beginning to rise
 
 Warming Phase: The initial phase of heat being applied to the beans.
 WP-- Wet processed coffee
+
+
+amb sensor: ambient temperature sensor
